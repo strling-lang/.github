@@ -10,10 +10,6 @@
     It transforms pattern matching from a write-only cryptographic puzzle into a readable, type-safe, and maintainable engineering discipline.
   </p>
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Join%20the%20Chime&logo=discord&style=flat-square)](https://discord.gg/your-link)
-[![License](https://img.shields.io/badge/License-Apache%202.0-silver.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
-[![Status](https://img.shields.io/badge/Status-Alpha-cyan.svg?style=flat-square)](https://github.com/strling-lang/strling)
-
 </div>
 
 ---
