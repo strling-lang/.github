@@ -14,19 +14,6 @@
 
 ---
 
-## 🔔 The Ecosystem Map
-
-We are building a complete "Pattern Sovereign" universe. Here is how our repositories are structured:
-
-| Repository                                                                           | Role           | Description                                                                                                                                |
-| :----------------------------------------------------------------------------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-| **[`strling`](https://github.com/strling-lang/strling)**                             | **The Engine** | The core compiler, LSP, CLI, and the **18 certified language bindings**. This is where the code lives.                                     |
-| **[`research-intelligence`](https://github.com/strling-lang/research-intelligence)** | **The Brain**  | Our strategic think-tank. We use deep research to identify "Representability Gaps" in modern software and design the features to fix them. |
-| **[`manual`](https://github.com/strling-lang/manual)**                               | **The Wisdom** | _The Masters Manual to Patterns_. A pedagogical guide to wielding pattern theory, moving beyond simple syntax into architectural design.   |
-| **[`.github`](https://github.com/strling-lang/.github)**                             | **The Law**    | Organization-wide governance, contribution guidelines, and security policies.                                                              |
-
----
-
 ## 🎯 Our Mission: "Junior First"
 
 STRling is built on a simple promise: **A Junior Developer should be able to read, understand, and modify a complex pattern without fear.**

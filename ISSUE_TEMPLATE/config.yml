@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔐 Security Vulnerability
+    url: https://github.com/strling-lang/strling/security/advisories/new
+    about: |
+      Do NOT open a public issue for security vulnerabilities.
+      Please report security issues via GitHub Security Advisories.
+  - name: 💬 Discussions & Questions
+    url: https://github.com/strling-lang/strling/discussions
+    about: |
+      Have a question or want to discuss ideas?
+      Use GitHub Discussions instead of opening an issue.
+  - name: 📖 The Masters Manual
+    url: https://github.com/strling-lang/manual
+    about: |
+      Looking for documentation and tutorials?
+      Check out The Masters Manual to Patterns.
