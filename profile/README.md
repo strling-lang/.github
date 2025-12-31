@@ -1,7 +1,7 @@
 # STRling: The Universal Pattern Engine
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/strling-lang/strling/main/assets/strling_silver_bell.png" alt="STRling Silver Bell Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/strling-lang/.github/refs/heads/main/strling_silver_bell.png" alt="STRling Silver Bell Logo" width="200" />
   
   <h3>Readable. Composable. Universal.</h3>
   
